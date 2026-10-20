@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.kde.plasma.virsh",
+        "Name": "Virsh Domains",
+        "Description": "List libvirt domains and start/stop them using virsh",
+        "Icon": "computer",
+        "Authors": [{ "Name": "mickboyko" }],
+        "Category": "System Information",
+        "License": "GPL-2.0+",
+        "Version": "0.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
