@@ -16,7 +16,9 @@ A lightweight KDE Plasma 6 widget for managing libvirt virtual machines with `vi
     stopped VMs.
   - **History graphs** (running VMs only, last ~5 minutes): CPU %, memory %,
     network throughput and disk I/O, from `virsh domstats`.
-- Transparent background with a shadow so theme text stays readable.
+- Uses the themed Plasma background, so it follows the system colour scheme
+  (light/dark). It can be switched to transparent or translucent from the
+  widget's background setting.
 
 ## Requirements
 
